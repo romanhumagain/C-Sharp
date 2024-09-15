@@ -1,0 +1,14 @@
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\bin\Debug\net8.0\Week2_Assignment.exe
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\bin\Debug\net8.0\Week2_Assignment.deps.json
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\bin\Debug\net8.0\Week2_Assignment.runtimeconfig.json
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\bin\Debug\net8.0\Week2_Assignment.dll
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\bin\Debug\net8.0\Week2_Assignment.pdb
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\Week2_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\Week2_Assignment.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\Week2_Assignment.AssemblyInfo.cs
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\Week2_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\Week2_Assignment.dll
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\refint\Week2_Assignment.dll
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\Week2_Assignment.pdb
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\Week2_Assignment.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Week2_Assignment\Week2_Assignment\obj\Debug\net8.0\ref\Week2_Assignment.dll

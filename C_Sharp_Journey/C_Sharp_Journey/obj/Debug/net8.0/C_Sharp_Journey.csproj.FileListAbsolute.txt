@@ -1,0 +1,14 @@
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\bin\Debug\net8.0\C_Sharp_Journey.exe
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\bin\Debug\net8.0\C_Sharp_Journey.deps.json
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\bin\Debug\net8.0\C_Sharp_Journey.runtimeconfig.json
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\bin\Debug\net8.0\C_Sharp_Journey.dll
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\bin\Debug\net8.0\C_Sharp_Journey.pdb
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\C_Sharp_Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\C_Sharp_Journey.AssemblyInfoInputs.cache
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\C_Sharp_Journey.AssemblyInfo.cs
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\C_Sharp_Journey.csproj.CoreCompileInputs.cache
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\C_Sharp_Journey.dll
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\refint\C_Sharp_Journey.dll
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\C_Sharp_Journey.pdb
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\C_Sharp_Journey.genruntimeconfig.cache
+D:\Coding\Programming_Languages\C#\C_Sharp_Journey\C_Sharp_Journey\obj\Debug\net8.0\ref\C_Sharp_Journey.dll

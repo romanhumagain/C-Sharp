@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "C_Sharp_Journey": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

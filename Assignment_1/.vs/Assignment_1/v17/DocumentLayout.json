@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Programming_Languages\\C#\\Assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E337A72B-3DE4-4950-B8DF-FA545AFAAB09}|Assignment_1\\Assignment_1.csproj|d:\\coding\\programming_languages\\c#\\assignment_1\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337A72B-3DE4-4950-B8DF-FA545AFAAB09}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Assignment_1\\Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Program.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Assignment_1\\Assignment_1\\Program.cs",
+              "RelativeToolTip": "Assignment_1\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:18:13.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

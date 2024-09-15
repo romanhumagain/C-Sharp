@@ -1,0 +1,7 @@
+D:\Coding\Programming_Languages\C#\C#_Series\C#_Series\bin\Debug\C#_Series.exe.config
+D:\Coding\Programming_Languages\C#\C#_Series\C#_Series\bin\Debug\C#_Series.exe
+D:\Coding\Programming_Languages\C#\C#_Series\C#_Series\bin\Debug\C#_Series.pdb
+D:\Coding\Programming_Languages\C#\C#_Series\C#_Series\obj\Debug\C_Sharp_Series.csproj.AssemblyReference.cache
+D:\Coding\Programming_Languages\C#\C#_Series\C#_Series\obj\Debug\C_Sharp_Series.csproj.CoreCompileInputs.cache
+D:\Coding\Programming_Languages\C#\C#_Series\C#_Series\obj\Debug\C#_Series.exe
+D:\Coding\Programming_Languages\C#\C#_Series\C#_Series\obj\Debug\C#_Series.pdb

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Programming_Languages\\C#\\C_Sharp_Journey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2074D0C-D75B-4F4F-B0E4-D98B73568CFB}|C_Sharp_Journey\\C_Sharp_Journey.csproj|d:\\coding\\programming_languages\\c#\\c_sharp_journey\\c_sharp_journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2074D0C-D75B-4F4F-B0E4-D98B73568CFB}|C_Sharp_Journey\\C_Sharp_Journey.csproj|solutionrelative:c_sharp_journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2074D0C-D75B-4F4F-B0E4-D98B73568CFB}|C_Sharp_Journey\\C_Sharp_Journey.csproj|d:\\coding\\programming_languages\\c#\\c_sharp_journey\\c_sharp_journey\\1_c#_syntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2074D0C-D75B-4F4F-B0E4-D98B73568CFB}|C_Sharp_Journey\\C_Sharp_Journey.csproj|solutionrelative:c_sharp_journey\\1_c#_syntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\C_Sharp_Journey\\C_Sharp_Journey\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Journey\\Program.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\C_Sharp_Journey\\C_Sharp_Journey\\Program.cs*",
+              "RelativeToolTip": "C_Sharp_Journey\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:30:48.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1_c#_syntax.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\C_Sharp_Journey\\C_Sharp_Journey\\1_c#_syntax.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Journey\\1_c#_syntax.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\C_Sharp_Journey\\C_Sharp_Journey\\1_c#_syntax.cs",
+              "RelativeToolTip": "C_Sharp_Journey\\1_c#_syntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:10:02.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
