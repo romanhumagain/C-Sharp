@@ -1,16 +1,16 @@
-﻿using System;
+﻿//using System;
 
-class VolumeCalculation
-{
-    public double calculateVolume(double radius, double height)
-    {
-        double volume = Math.PI * radius * radius * height;
-        return volume;
-    }
-}
+//class VolumeCalculation
+//{
+//    public double calculateVolume(double radius, double height)
+//    {
+//        double volume = Math.PI * radius * radius * height;
+//        return volume;
+//    }
+//}
 
-class Test
-{
+//class Test
+//{
 //    static void Main(string[] args)
 //    {
 //        // creating an object of class CalculateVolume class
@@ -31,4 +31,4 @@ class Test
 //        Console.WriteLine($"The volume of the cylinder is: {volume} cubic units");
 
 //    }
-}
+//}

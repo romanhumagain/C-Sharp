@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\Week2_Assignment\\",
+  "WorkspaceRootPath": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|c:\\users\\victus\\source\\repos\\week2_assignment\\week2_assignment\\fibonaccigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\fibonaccigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|c:\\users\\victus\\source\\repos\\week2_assignment\\week2_assignment\\volumecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\volumecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\volumecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|c:\\users\\victus\\source\\repos\\week2_assignment\\week2_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\fibonaccigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\fibonaccigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\exercise3\\tokyotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\exercise3\\tokyotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\exercise3\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\exercise3\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\exercise3\\hongkongtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\exercise3\\hongkongtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\exercise3\\localtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\exercise3\\localtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\exercise3\\londontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\exercise3\\londontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|d:\\coding\\programming_languages\\c#\\week2_assignment\\week2_assignment\\exercise3\\newyorktime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E390A34-68D4-474C-8CBA-5ACFF054BB15}|Week2_Assignment\\Week2_Assignment.csproj|solutionrelative:week2_assignment\\exercise3\\newyorktime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FibonacciGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Week2_Assignment\\Week2_Assignment\\FibonacciGenerator.cs",
-              "RelativeDocumentMoniker": "Week2_Assignment\\FibonacciGenerator.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Week2_Assignment\\Week2_Assignment\\FibonacciGenerator.cs",
-              "RelativeToolTip": "Week2_Assignment\\FibonacciGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Title": "VolumeCalculator.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\VolumeCalculator.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\VolumeCalculator.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\VolumeCalculator.cs",
+              "RelativeToolTip": "Week2_Assignment\\VolumeCalculator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T05:00:51.877Z",
+              "WhenOpened": "2024-09-15T10:44:23.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VolumeCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Week2_Assignment\\Week2_Assignment\\VolumeCalculator.cs",
-              "RelativeDocumentMoniker": "Week2_Assignment\\VolumeCalculator.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Week2_Assignment\\Week2_Assignment\\VolumeCalculator.cs",
-              "RelativeToolTip": "Week2_Assignment\\VolumeCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "FibonacciGenerator.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\FibonacciGenerator.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\FibonacciGenerator.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\FibonacciGenerator.cs",
+              "RelativeToolTip": "Week2_Assignment\\FibonacciGenerator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T04:55:50.767Z",
+              "WhenOpened": "2024-09-15T10:43:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\Test.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\Exercise3\\Test.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\Test.cs",
+              "RelativeToolTip": "Week2_Assignment\\Exercise3\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:31:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalTime.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\LocalTime.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\Exercise3\\LocalTime.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\LocalTime.cs",
+              "RelativeToolTip": "Week2_Assignment\\Exercise3\\LocalTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:30:12.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LondonTime.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\LondonTime.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\Exercise3\\LondonTime.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\LondonTime.cs",
+              "RelativeToolTip": "Week2_Assignment\\Exercise3\\LondonTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:30:46.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Week2_Assignment\\Week2_Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Week2_Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Week2_Assignment\\Week2_Assignment\\Program.cs",
-              "RelativeToolTip": "Week2_Assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TokyoTime.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\TokyoTime.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\Exercise3\\TokyoTime.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\TokyoTime.cs",
+              "RelativeToolTip": "Week2_Assignment\\Exercise3\\TokyoTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T04:37:25.432Z",
+              "WhenOpened": "2024-09-15T10:31:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HongKongTime.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\HongKongTime.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\Exercise3\\HongKongTime.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\HongKongTime.cs",
+              "RelativeToolTip": "Week2_Assignment\\Exercise3\\HongKongTime.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:31:28.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewYorkTime.cs",
+              "DocumentMoniker": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\NewYorkTime.cs",
+              "RelativeDocumentMoniker": "Week2_Assignment\\Exercise3\\NewYorkTime.cs",
+              "ToolTip": "D:\\Coding\\Programming_Languages\\C#\\Week2_Assignment\\Week2_Assignment\\Exercise3\\NewYorkTime.cs",
+              "RelativeToolTip": "Week2_Assignment\\Exercise3\\NewYorkTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:30:57.809Z",
               "EditorCaption": ""
             }
           ]
