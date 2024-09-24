@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basics.C_Sharp_Basics.Arrays
 {
+    /*
     internal class ForEach
     {
 
@@ -18,7 +19,7 @@ namespace Basics.C_Sharp_Basics.Arrays
             for(int i = 0; i < names.Length; i++)
             {
                 Console.WriteLine(names[i]);
-            }
+            }S
             
             // Using for each
             foreach(String name in names)
@@ -27,4 +28,5 @@ namespace Basics.C_Sharp_Basics.Arrays
             }
         }
     }
+    */
 }
